@@ -1,7 +1,7 @@
 # Hello 2022!
 
 - 👋 Hi, I’m @SnowingFox
-- 👀 I’m interested in JavaScript, TypeScript, React, Vue, CSS, Java, C++, PHP
+- 👀 I’m interested in JavaScript, TypeScript, React, Vue, Go. CSS, Java, C++, PHP
 - 🌱 I’m currently learning how to type beautiful code
 - 📫 How to reach me  email: 1503401882@qq.com
 <!---
