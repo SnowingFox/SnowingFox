@@ -9,7 +9,6 @@ SnowingFox/SnowingFox is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![SnowingFox's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowingfox)
-![SnowingFox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html)
 
 ![SnowingFox's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=snowingfox&theme=highcontrast)
-
+<img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=snowingfox&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
