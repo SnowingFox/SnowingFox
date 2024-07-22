@@ -1,4 +1,4 @@
-# hi👋, 2023
+# hi👋, 2024
 
 -  Hi, I’m SnowingFox
 - 👀 I’m interested in TypeScript, Kotlin, React, React Native, Flutter, Rust
