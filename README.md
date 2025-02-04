@@ -1,10 +1,9 @@
-# hi👋, 2024
+# hi👋, 2025
 
 -  Hi, I’m SnowingFox
-- 👀 I’m interested in TypeScript, Kotlin, React, React Native, Flutter, Rust
-- 🌱 I’m currently learning how to type beautiful code
+- 👀 I’m interested in Full-stack develop: react-native, prisma, nestjs, nextjs. And also intersted in AI.
+- 🌱 I’m currently learning Transformer.
 - 📫 How to reach me  email: MSnowingfox@outlook.com
-- 🤩 Intern at ByteDance
 - 📝 [Blog](https://snowingfox.vercel.app)
 
 ![SnowingFox's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowingfox)
